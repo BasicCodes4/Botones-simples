@@ -1,2 +1,2 @@
 # Botones-simples
-Boto
+Botones simples con bootstrap
