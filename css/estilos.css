@@ -1,0 +1,22 @@
+
+
+.titulo {
+   font-family: 'Roboto', sans-serif;
+   font-size: 40px;
+   border-radius: 7px;
+   background-color: #FDF3BF;
+}
+
+button.btn-1 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	background-color: #4572FF;
+	border-radius: 7px;
+}
+
+button.btn-1:hover {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	background-color: #003EFF;
+	border-radius: 7px;
+}
